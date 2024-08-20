@@ -4,8 +4,11 @@ Software Engineering.
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
+
 Software engineering refers to the systematic application of engineering principles, methods, and tools to develop and maintain high-quality software systems. It involves software product design, development, testing, deployment, and maintenance.
+
 Importance of software engineering:
+
 Reduces Complexity
 Dealing with big Software is very complicated and challenging. Thus, to reduce the complications of projects, software engineering has great solutions. It simplifies complex problems and solves those issues one by one.
 Addressing social issues
@@ -19,6 +22,7 @@ The Advent of structured programming in the 1970s
 1980s: The first computer-aided software engineering (CASE) tools are released.
 
 List and briefly explain the phases of the Software Development Life Cycle.
+
 Requirements: refers to identifying and recording the precise requirements of the final users. 
 Design: This involves outlining the software’s structure, navigation, user interfaces, and database design. This phase ensures that the software is user-friendly and performs its tasks efficiently.
 Implementation: writing ad building codes according to the design specifications.
@@ -32,6 +36,7 @@ Agile promotes ongoing collaboration, while Waterfall focuses on thorough planni
 Agile is particularly suited to software development while Waterfall may be more appropriate for complex projects in industries like construction, manufacturing, or aerospace.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
 Software Developer: responsible for writing codes and implementing software solutions.
 Quality Assurance Engineer: ensures software quality by designing and executing test plans.
 Project Manager: Oversees the planning, execution and delivery of software projects.
@@ -62,7 +67,9 @@ Acceptance Testing:  This is the last and final level of testing. It is a type o
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
+
 prompt engineering is all about crafting your questions or instructions in a way that helps get the best responses from your robot or AI assistant. It’s like being a great chef for your robot, ensuring it has the perfect “ingredients” to serve you exactly what you need.
+
 The importance of prompt engineering in AI models can't be overemphasised as they are necessary for the following reasons:
 1.Precision in Communication: By refining prompts, engineers can enhance the precision of AI models, ensuring that the system interprets and responds to queries with a targeted focus.
 2.Mitigating Bias and Ethical Considerations: Prompt engineering plays a pivotal role in mitigating biases within AI systems.
